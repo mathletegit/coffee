@@ -76995,57 +76995,57 @@ a91(a){var s,r,q,p,o,n,m=this,l=null,k=m.dx,j=A.e4("TIER 1",l,l,l,A.dQ(l,l,B.j,l
 if(i){i=A.X($.e7).i("V<1,c4<p>>")
 i=A.ah(new A.V($.e7,new A.aat(),i),!0,i.i("aZ.E"))}else{i=A.X($.di).i("V<1,c4<p>>")
 i=A.ah(new A.V($.di,new A.aau(),i),!0,i.i("aZ.E"))}s=t.N
-h=A.ll(B.jr,A.kZ(i,g,new A.aaF(m),s),h)
+h=A.ll(A.kZ(i,g,new A.aaF(m),s),B.js,h)
 g=m.z
 i=A.kT(new A.aaQ(m),g)
 r=m.cy
 if(g){g=A.X($.e7).i("V<1,c4<p>>")
 g=A.ah(new A.V($.e7,new A.aaZ(),g),!0,g.i("aZ.E"))}else{g=A.X($.di).i("V<1,c4<p>>")
-g=A.ah(new A.V($.di,new A.ab_(),g),!0,g.i("aZ.E"))}i=A.ll(B.js,A.kZ(g,r,new A.ab0(m),s),i)
+g=A.ah(new A.V($.di,new A.ab_(),g),!0,g.i("aZ.E"))}i=A.ll(A.kZ(g,r,new A.ab0(m),s),B.jq,i)
 r=m.Q
 g=A.kT(new A.ab1(m),r)
 q=m.db
 if(r){r=A.X($.e7).i("V<1,c4<p>>")
 r=A.ah(new A.V($.e7,new A.ab2(),r),!0,r.i("aZ.E"))}else{r=A.X($.di).i("V<1,c4<p>>")
 r=A.ah(new A.V($.di,new A.ab3(),r),!0,r.i("aZ.E"))}p=t.p
-j=A.ajn(A.he(A.b([h,i,A.ll(B.jq,A.kZ(r,q,new A.aav(m),s),g)],p),B.ao,l,B.ac,B.b2),j)
+j=A.ajn(A.he(A.b([h,i,A.ll(A.kZ(r,q,new A.aav(m),s),B.jr,g)],p),B.ao,l,B.ac,B.b2),j)
 g=A.e4("TIER 2",l,l,l,A.dQ(l,l,B.j,l,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)
 q=m.as
 r=A.kT(new A.aaw(m),q)
 i=m.cx
 if(q){h=A.X($.e7).i("V<1,c4<p>>")
 h=A.ah(new A.V($.e7,new A.aax(),h),!0,h.i("aZ.E"))}else{h=A.X($.di).i("V<1,c4<p>>")
-h=A.ah(new A.V($.di,new A.aay(),h),!0,h.i("aZ.E"))}r=A.ll(B.jr,A.kZ(h,i,new A.aaz(m),s),r)
+h=A.ah(new A.V($.di,new A.aay(),h),!0,h.i("aZ.E"))}r=A.ll(A.kZ(h,i,new A.aaz(m),s),B.js,r)
 i=A.kT(new A.aaA(m),m.at)
 h=m.db
 if(m.ax){q=A.X($.e7).i("V<1,c4<p>>")
 q=A.ah(new A.V($.e7,new A.aaB(),q),!0,q.i("aZ.E"))}else{q=A.X($.di).i("V<1,c4<p>>")
-q=A.ah(new A.V($.di,new A.aaC(),q),!0,q.i("aZ.E"))}i=A.ll(B.js,A.kZ(q,h,new A.aaD(m),s),i)
+q=A.ah(new A.V($.di,new A.aaC(),q),!0,q.i("aZ.E"))}i=A.ll(A.kZ(q,h,new A.aaD(m),s),B.jq,i)
 h=m.ax
 q=A.kT(new A.aaE(m),h)
 o=m.db
 if(h){h=A.X($.e7).i("V<1,c4<p>>")
 h=A.ah(new A.V($.e7,new A.aaG(),h),!0,h.i("aZ.E"))}else{h=A.X($.di).i("V<1,c4<p>>")
-h=A.ah(new A.V($.di,new A.aaH(),h),!0,h.i("aZ.E"))}g=A.ajn(A.he(A.b([r,i,A.ll(B.jq,A.kZ(h,o,new A.aaI(m),s),q)],p),B.ao,l,B.ac,B.b2),g)
+h=A.ah(new A.V($.di,new A.aaH(),h),!0,h.i("aZ.E"))}g=A.ajn(A.he(A.b([r,i,A.ll(A.kZ(h,o,new A.aaI(m),s),B.jr,q)],p),B.ao,l,B.ac,B.b2),g)
 q=A.e4("TIER 3",l,l,l,A.dQ(l,l,B.j,l,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)
 o=m.ay
 h=A.kT(new A.aaJ(m),o)
 i=m.cx
 if(o){r=A.X($.e7).i("V<1,c4<p>>")
 r=A.ah(new A.V($.e7,new A.aaK(),r),!0,r.i("aZ.E"))}else{r=A.X($.di).i("V<1,c4<p>>")
-r=A.ah(new A.V($.di,new A.aaL(),r),!0,r.i("aZ.E"))}h=A.ll(B.jr,A.kZ(r,i,new A.aaM(m),s),h)
+r=A.ah(new A.V($.di,new A.aaL(),r),!0,r.i("aZ.E"))}h=A.ll(A.kZ(r,i,new A.aaM(m),s),B.js,h)
 i=m.ch
 r=A.kT(new A.aaN(m),i)
 o=m.cy
 if(i){i=A.X($.e7).i("V<1,c4<p>>")
 i=A.ah(new A.V($.e7,new A.aaO(),i),!0,i.i("aZ.E"))}else{i=A.X($.di).i("V<1,c4<p>>")
-i=A.ah(new A.V($.di,new A.aaP(),i),!0,i.i("aZ.E"))}r=A.ll(A.kZ(i,o,new A.aaR(m),s),B.js,r)
+i=A.ah(new A.V($.di,new A.aaP(),i),!0,i.i("aZ.E"))}r=A.ll(A.kZ(i,o,new A.aaR(m),s),B.jq,r)
 o=m.CW
 i=A.kT(new A.aaS(m),o)
 n=m.db
 if(o){o=A.X($.e7).i("V<1,c4<p>>")
 o=A.ah(new A.V($.e7,new A.aaT(),o),!0,o.i("aZ.E"))}else{o=A.X($.di).i("V<1,c4<p>>")
-o=A.ah(new A.V($.di,new A.aaU(),o),!0,o.i("aZ.E"))}return new A.y3(A.b([j,g,A.ajn(A.he(A.b([h,r,A.ll(B.jq,A.kZ(o,n,new A.aaV(m),s),i)],p),B.ao,l,B.ac,B.b2),q)],t.SV),k,new A.aaW(m),new A.aaX(m),new A.aaY(m),l)}}
+o=A.ah(new A.V($.di,new A.aaU(),o),!0,o.i("aZ.E"))}return new A.y3(A.b([j,g,A.ajn(A.he(A.b([h,r,A.ll(A.kZ(o,n,new A.aaV(m),s),B.jr,i)],p),B.ao,l,B.ac,B.b2),q)],t.SV),k,new A.aaW(m),new A.aaX(m),new A.aaY(m),l)}}
 A.aaa.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
@@ -81997,10 +81997,10 @@ B.Ni=new A.r(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.MY=new A.r(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.O0=new A.e6(B.MI,B.NK,B.Nv,B.Lq,B.Nq,B.MC,B.NO,B.LR,B.Mk,B.Nl,B.Lj,B.Nw,B.No,B.Ni,B.MY)
 B.xi=new A.Kv(1,"longestLine")
-B.jq=new A.iT("Buy Me A Coffee",null,null,null,null,null,null,null,null)
+B.jq=new A.iT("Ko-Fi",null,null,null,null,null,null,null,null)
+B.jr=new A.iT("Buy Me A Coffee",null,null,null,null,null,null,null,null)
+B.js=new A.iT("Patreon",null,null,null,null,null,null,null,null)
 B.O1=new A.iT("Thanks for subscribing!",null,null,null,null,null,null,null,null)
-B.jr=new A.iT("patreon",null,null,null,null,null,null,null,null)
-B.js=new A.iT("ko-fi",null,null,null,null,null,null,null,null)
 B.O2=new A.iT("!",null,B.xh,null,null,null,null,null,null)
 B.Rc=new A.a6z(0,"system")
 B.Hq=new A.i(0.056,0.024)
